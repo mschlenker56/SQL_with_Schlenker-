@@ -1,0 +1,2 @@
+SELECT ename || 'MAKES' || sal || 'per month' as "Employee Income"
+from EMP 
